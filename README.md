@@ -4,9 +4,8 @@
 This respository hosts the files I used to create my DIY robot, MrRobot.
 
 # Table of Contents to Repository 
-* [0. Pipeline Images from Gdrive to local machine for LabelImg Bounding Boxes](#0)
-* [1. Training Notebook](#1)
-* [2. Adruino 1 Code](#2)
+* [1. Jupyter Notebooks](#1)
+* [2. Adruino Codes](#2)
 * [3.
 * [2. Inputs](#2)
    * [data.csv](#2)
@@ -17,24 +16,18 @@ This respository hosts the files I used to create my DIY robot, MrRobot.
 * [5. Contact-Info](#5)
 * [6. License](#6)
 
-## 0 Pipeline Images from Gdrive to local machine for LabelImg Bounding Boxes<a class="anchor" id="0"></a>
+## 1 Jupyter Notebooks<a class="anchor" id="1"></a>
 Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Grab_from_Gdrive.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/MrRobot/blob/main/Grab_from_Gdrive.ipynb) | My Jupyter notebook. |
-
-## 1 Training Notebook<a class="anchor" id="1"></a>
-Jupyter Notebook(s) written in Python.
-
-| Notebook | Description |
-|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Grab_from_Gdrive.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/MrRobot/blob/main/Grab_from_Gdrive.ipynb) | Training Notebook. |
 | [augmented_ssd_MobileNet_v2_FPNLite_320_LR0p01_BS32_NB80000__5_5_2021_reindeer.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/MrRobot/blob/main/augmented_ssd_MobileNet_v2_FPNLite_320_LR0p01_BS32_NB80000__5_5_2021_reindeer.ipynb) | My Jupyter notebook. |
 
 ## 2 Arduino Codes<a class="anchor" id="2"></a>
 Arduino Code(s) written in C++/C.
 
-| Notebook | Description |
+| Code | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [MrRobot_Receiver_Slave_Arduino_1.ino](https://github.com/stevensmiley1989/MrRobot/blob/main/MrRobot_Receiver_Slave_Arduino_1.ino) | Arduino 1, Receiver Slave. |
 | [MrRobot_Receiver_Master_Arduino_2_with_coil.ino](https://github.com/stevensmiley1989/MrRobot/blob/main/MrRobot_Receiver_Master_Arduino_2_with_coil.ino) | Arduino 2, Master. |
