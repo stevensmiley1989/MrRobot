@@ -7,14 +7,11 @@ This respository hosts the files I used to create my DIY robot, MrRobot.
 * [1. Jupyter Notebooks](#1)
 * [2. Adruino Codes](#2)
 * [3. Python Codes](#3)
-* [2. Inputs](#2)
-   * [data.csv](#2)
-* [3. Outputs](#3)
-   * [Models](#3.1)
-   * [Figures](#3.2)
-* [4. Credits/References](#4)
-* [5. Contact-Info](#5)
-* [6. License](#6)
+* [4. Autodesk Fusion360 File](#4)
+* [5. Images](#5)
+* [6. Credits/References](#6)
+* [7. Contact-Info](#7)
+* [8. License](#8)
 
 ## 1 Jupyter Notebooks<a class="anchor" id="1"></a>
 Jupyter Notebook(s) written in Python.
@@ -34,8 +31,26 @@ Arduino Code(s) written in C++/C.
 | [MrRobot_Transmitter_Arduino_3.ino](https://github.com/stevensmiley1989/MrRobot/blob/main/MrRobot_Transmitter_Arduino_3.ino) | Arduino 3, Transmitter.  This is for the glove that can control the robot using the MPU06050 and FlexSensor. |
 | [MMrRobot_Receiver_Slave_Arduino_4_with_coil.ino](https://github.com/stevensmiley1989/MrRobot/blob/main/MrRobot_Receiver_Slave_Arduino_4_with_coil.ino) | Arduino 4, Receiver Slave.  This Arduino opens and closes the relays to the coil gun after receiving the signal from the Master for charging, stepping, or firing. |
 
+## 3 Python Codes<a class="anchor" id="3"></a>
+Python Code(s) written in Python.
 
-## 4 Contact-Info<a class="anchor" id="5"></a>
+| Code | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [??](??) | ??. |
+| [MrRobot_Receiver_Master_Arduino_2_with_coil.ino](https://github.com/stevensmiley1989/MrRobot/blob/main/MrRobot_Receiver_Master_Arduino_2_with_coil.ino) | Arduino 2, Master.  This is Arduino controls the other slaves and is connected via Serial to the Raspberry Pi with USB.  |
+
+## 4 Autodesk Fusion 360 File<a class="anchor" id="4"></a>
+Created in Autodesk Fusion 360.
+
+| File | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [??](??) | ??. |
+| [MrRobot_Receiver_Master_Arduino_2_with_coil.ino](https://github.com/stevensmiley1989/MrRobot/blob/main/MrRobot_Receiver_Master_Arduino_2_with_coil.ino) | Arduino 2, Master.  This is Arduino controls the other slaves and is connected via Serial to the Raspberry Pi with USB.  |
+
+## 6 Images<a class="anchor" id="6"></a>
+Images used for this Repository.
+
+## 7 Contact-Info<a class="anchor" id="7"></a>
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
@@ -44,7 +59,7 @@ Feel free to contact me to discuss any issues, questions, or comments.
 * LinkedIn: [stevensmiley1989](https://www.linkedin.com/in/stevensmiley1989)
 * Kaggle: [stevensmiley](https://www.kaggle.com/stevensmiley)
 
-### 6 License <a class="anchor" id="6"></a>
+### 8 License <a class="anchor" id="8"></a>
 
 This repository contains a variety of content; some developed by Steven Smiley, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
 
