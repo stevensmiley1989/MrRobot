@@ -32,7 +32,7 @@ Jupyter Notebook(s) written in Python.
 | [augmented_ssd_MobileNet_v2_FPNLite_320_LR0p01_BS32_NB80000__5_5_2021_reindeer.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/MrRobot/blob/main/augmented_ssd_MobileNet_v2_FPNLite_320_LR0p01_BS32_NB80000__5_5_2021_reindeer.ipynb) | My Jupyter notebook. |
 
 ## 2 Arduino Codes<a class="anchor" id="2"></a>
-Adrduino Code(s) written in C++/C.
+Arduino Code(s) written in C++/C.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
