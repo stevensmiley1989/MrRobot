@@ -44,8 +44,7 @@ Created in Autodesk Fusion 360.
 
 | File | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [??](??) | ??. |
-| [MrRobot_Receiver_Master_Arduino_2_with_coil.ino](https://github.com/stevensmiley1989/MrRobot/blob/main/MrRobot_Receiver_Master_Arduino_2_with_coil.ino) | Arduino 2, Master.  This is Arduino controls the other slaves and is connected via Serial to the Raspberry Pi with USB.  |
+| [MrRobot_r0.f3d](https://drive.google.com/file/d/1Y3j7olqVXqGDpjUM-sUqTxSGBog7LYWE/view?usp=sharing) | Fusion360 file for MrRobot_r0. |
 
 ## 5 Images<a class="anchor" id="5"></a>
 [Images used for this Repository.](https://github.com/stevensmiley1989/MrRobot/tree/main/Images)
