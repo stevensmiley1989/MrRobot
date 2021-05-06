@@ -2,7 +2,7 @@
 ## Repository by Steven Smiley
 
 This respository hosts the files I used to create my DIY robot, MrRobot.
-
+![MrRobot_r0](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/MrRobot_FusionvsReal.png)
 # Table of Contents to Repository 
 * [1. Jupyter Notebooks](#1)
 * [2. Adruino Codes](#2)
