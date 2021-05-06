@@ -13,7 +13,7 @@ This respository hosts the files I used to create my DIY robot, MrRobot.
 * [7. Contact-Info](#7)
 * [8. License](#8)
 
-![Wiring Diagram](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/MrRobot_sketch_bb_reduced_size.png)
+![Wiring Diagram](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/MrRobot_sketch_bb.png)
 
 ## 1 Jupyter Notebooks<a class="anchor" id="1"></a>
 Jupyter Notebook(s) written in Python.
