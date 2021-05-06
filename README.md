@@ -4,7 +4,7 @@
 This respository hosts the files I used to create my DIY robot, MrRobot.
 
 # Table of Contents to Repository 
-* [1. Jupyter Notebook](#1)
+* [1. Training Notebook](#1)
 * [2. Inputs](#2)
    * [data.csv](#2)
 * [3. Outputs](#3)
@@ -14,13 +14,12 @@ This respository hosts the files I used to create my DIY robot, MrRobot.
 * [5. Contact-Info](#5)
 * [6. License](#6)
 
-## 1 Jupyter Notebook<a class="anchor" id="1"></a>
+## 1 Training Notebook<a class="anchor" id="1"></a>
 Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Cleveland.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/Cleveland_Dataset/blob/master/Cleveland.ipynb) | My Jupyter notebook. |
-
+| [augmented_ssd_MobileNet_v2_FPNLite_320_LR0p01_BS32_NB80000__5_5_2021_reindeer.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/MrRobot/blob/main/augmented_ssd_MobileNet_v2_FPNLite_320_LR0p01_BS32_NB80000__5_5_2021_reindeer.ipynb) | My Jupyter notebook. |
 
 ## [2 Inputs](https://github.com/stevensmiley1989/Cleveland_Dataset/tree/master/Inputs)<a class="anchor" id="2"></a>
 Single input file (processed.cleveland.data) contains all of the information for the Cleveland dataset.
