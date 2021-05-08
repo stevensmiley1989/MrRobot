@@ -1,0 +1,6 @@
+framework module Pods_MyRobot {
+  umbrella header "Pods-MyRobot-umbrella.h"
+
+  export *
+  module * { export * }
+}
