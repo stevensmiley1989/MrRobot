@@ -9,10 +9,10 @@ This respository hosts the files I used to create my DIY robot, MrRobot.
 * [3. Python Codes](#3)
 * [4. Autodesk Fusion360 File](#4)
 * [5. iOS Application](#5)
-* [5. Images](#6)
-* [6. Credits/References](#7)
-* [7. Contact-Info](#8)
-* [8. License](#9)
+* [6. Images](#6)
+* [7. Credits/References](#7)
+* [8. Contact-Info](#8)
+* [9. License](#9)
 
 ![Wiring Diagram](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/MrRobot_Wiring_Diagram.png)
 
@@ -88,7 +88,7 @@ Created in Xcode with Swift.
 
 14.  Scikit-Image. Stéfan van der Walt, Johannes L. Schönberger, Juan Nunez-Iglesias, François Boulogne, Joshua D. Warner, Neil Yager, Emmanuelle Gouillart, Tony Yu and the scikit-image contributors. scikit-image: Image processing in Python, PeerJ 2:e453 (2014) <a class="anchor" id="Ref_14"></a>   
 
-## 7 Contact-Info<a class="anchor" id="7"></a>
+## 8 Contact-Info<a class="anchor" id="8"></a>
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
@@ -97,7 +97,7 @@ Feel free to contact me to discuss any issues, questions, or comments.
 * LinkedIn: [stevensmiley1989](https://www.linkedin.com/in/stevensmiley1989)
 * Kaggle: [stevensmiley](https://www.kaggle.com/stevensmiley)
 
-### 8 License <a class="anchor" id="8"></a>
+### 9 License <a class="anchor" id="9"></a>
 
 This repository contains a variety of content; some developed by Steven Smiley, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
 
