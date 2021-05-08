@@ -3,7 +3,8 @@
 
 This respository hosts the files I used to create my DIY robot, MrRobot.
 ![MrRobot_r0](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/MrRobot_FusionvsReal.png)
-# Table of Contents to Repository 
+# Table of Contents to Repository
+* [0. Wiring Diagram](#0)
 * [1. Jupyter Notebooks](#1)
 * [2. Adruino Codes](#2)
 * [3. Python Codes](#3)
@@ -14,6 +15,7 @@ This respository hosts the files I used to create my DIY robot, MrRobot.
 * [8. Contact-Info](#8)
 * [9. License](#9)
 
+## 0 Wiring Diagram<a class="anchor" id="0"></a>
 ![Wiring Diagram](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/MrRobot_Wiring_Diagram.png)
 
 ## 1 Jupyter Notebooks<a class="anchor" id="1"></a>
