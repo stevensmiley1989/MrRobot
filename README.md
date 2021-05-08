@@ -15,10 +15,10 @@ This respository hosts the files I used to create my DIY robot, MrRobot.
 * [8. Contact-Info](#8)
 * [9. License](#9)
 
-## 0 Wiring Diagram<a class="anchor" id="0"></a>
+## 0. Wiring Diagram<a class="anchor" id="0"></a>
 ![Wiring Diagram](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/MrRobot_Wiring_Diagram.png)
 
-## 1 Jupyter Notebooks<a class="anchor" id="1"></a>
+## 1. Jupyter Notebooks<a class="anchor" id="1"></a>
 Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
@@ -26,7 +26,7 @@ Jupyter Notebook(s) written in Python.
 | [Grab_from_Gdrive.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/MrRobot/blob/main/Grab_from_Gdrive.ipynb) | Pipeline Images from Gdrive to Local Machine for LabelImg to put Bounding Boxes and send back to Gdrive for training on Google Colab. |
 | [augmented_ssd_MobileNet_v2_FPNLite_320_LR0p01_BS32_NB80000__5_5_2021_reindeer.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/MrRobot/blob/main/augmented_ssd_MobileNet_v2_FPNLite_320_LR0p01_BS32_NB80000__5_5_2021_reindeer.ipynb) | Training notebook for Object Detector with SSD MobileNet V2 FPNLite 320x320 on Google Colab. |
 
-## 2 Arduino Codes<a class="anchor" id="2"></a>
+## 2. Arduino Codes<a class="anchor" id="2"></a>
 Arduino Code(s) written in C++/C.
 
 | Code | Description |
@@ -36,7 +36,7 @@ Arduino Code(s) written in C++/C.
 | [MrRobot_Transmitter_Arduino_3.ino](https://github.com/stevensmiley1989/MrRobot/blob/main/Arduino%20Codes/MrRobot_Transmitter_Arduino_3.ino) | Arduino 3, Transmitter.  This is for the glove that can control the robot using the MPU06050 and FlexSensor. |
 | [MrRobot_Receiver_Slave_Arduino_4_with_coil.ino](https://github.com/stevensmiley1989/MrRobot/blob/main/Arduino%20Codes/MrRobot_Receiver_Slave_Arduino_4_with_coil.ino) | Arduino 4, Receiver Slave.  This Arduino opens and closes the relays to the coil gun after receiving the signal from the Master for charging, stepping, or firing. |
 
-## 3 Python Codes<a class="anchor" id="3"></a>
+## 3. Python Codes<a class="anchor" id="3"></a>
 Python Code(s) written in Python.
 
 | Code | Description |
@@ -44,7 +44,7 @@ Python Code(s) written in Python.
 | [??](??) | ??. |
 | [MrRobot_Receiver_Master_Arduino_2_with_coil.ino](https://github.com/stevensmiley1989/MrRobot/blob/main/Arduino%20Codes/MrRobot_Receiver_Master_Arduino_2_with_coil.ino) | Arduino 2, Master.  This is Arduino controls the other slaves and is connected via Serial to the Raspberry Pi with USB.  |
 
-## 4 Autodesk Fusion 360 File<a class="anchor" id="4"></a>
+## 4. Autodesk Fusion 360 File<a class="anchor" id="4"></a>
 Created in Autodesk Fusion 360.
 
 | File | Description |
@@ -53,7 +53,7 @@ Created in Autodesk Fusion 360.
 
 ![Fusion360 Screenshot](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/MrRobot_Fusion360_Screenshot.png)
 
-## 5 iOS Application<a class="anchor" id="5"></a>
+## 5. iOS Application<a class="anchor" id="5"></a>
 Created in Xcode with Swift.
 
 | File | Description |
@@ -62,10 +62,10 @@ Created in Xcode with Swift.
 
 ![iPhone App](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/MrRobot_r0_Xcode_Screenshot.png)
 
-## 6 Images<a class="anchor" id="6"></a>
+## 6. Images<a class="anchor" id="6"></a>
 [Images used for this Repository.](https://github.com/stevensmiley1989/MrRobot/tree/main/Images)
 
-## 7 Credits/References<a class="anchor" id="7"></a>
+## 7. Credits/References<a class="anchor" id="7"></a>
 1. TensorFlow 2 Detection Model Zoo, [https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md]<a class="anchor" id="Ref_1"></a>  
 
 2. SSD MobilNet V2 FPNLite 320x320, [http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8.tar.gz] <a class="anchor" id="Ref_2"></a>   
@@ -94,7 +94,7 @@ Created in Xcode with Swift.
 
 14.  Scikit-Image. Stéfan van der Walt, Johannes L. Schönberger, Juan Nunez-Iglesias, François Boulogne, Joshua D. Warner, Neil Yager, Emmanuelle Gouillart, Tony Yu and the scikit-image contributors. scikit-image: Image processing in Python, PeerJ 2:e453 (2014) <a class="anchor" id="Ref_14"></a>   
 
-## 8 Contact-Info<a class="anchor" id="8"></a>
+## 8. Contact-Info<a class="anchor" id="8"></a>
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
@@ -103,7 +103,7 @@ Feel free to contact me to discuss any issues, questions, or comments.
 * LinkedIn: [stevensmiley1989](https://www.linkedin.com/in/stevensmiley1989)
 * Kaggle: [stevensmiley](https://www.kaggle.com/stevensmiley)
 
-### 9 License <a class="anchor" id="9"></a>
+### 9. License <a class="anchor" id="9"></a>
 
 This repository contains a variety of content; some developed by Steven Smiley, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
 
