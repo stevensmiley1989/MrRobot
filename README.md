@@ -49,7 +49,7 @@ Created in Autodesk Fusion 360.
 
 | File | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [MrRobot_r0.f3d](https://drive.google.com/file/d/1Y3j7olqVXqGDpjUM-sUqTxSGBog7LYWE/view?usp=sharing) | Fusion360 file for MrRobot_r0. |
+| [MrRobot_r0.f3d](https://github.com/stevensmiley1989/MrRobot/blob/main/Autodesk%20Fusion360%20File/MrRobot_r0.f3d) | Fusion360 file for MrRobot_r0. |
 
 ![Fusion360 Screenshot](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/MrRobot_Fusion360_Screenshot.png)
 
