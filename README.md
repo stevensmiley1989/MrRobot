@@ -18,9 +18,9 @@ This respository hosts the files I used to create my DIY robot, MrRobot.
 * [9. License](#9)
 
 ## 0. Diagrams<a class="anchor" id="0"></a>
-# 0.1 Wiring Diagram<a class="anchor" id="0.1"></a>
+### 0.1 Wiring Diagram<a class="anchor" id="0.1"></a>
 ![Wiring Diagram](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/MrRobot_Wiring_Diagram.png)
-# 0.2 Training Flowchart<a class="anchor" id="0.2"></a>
+### 0.2 Training Flowchart<a class="anchor" id="0.2"></a>
 ![Training Flowchart](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/MrRobot_Training_Flowchart.png)
 
 ## 1. Jupyter Notebooks<a class="anchor" id="1"></a>
