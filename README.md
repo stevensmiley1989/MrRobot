@@ -104,6 +104,20 @@ Created in Xcode with Swift.
 
 14.  Scikit-Image. Stéfan van der Walt, Johannes L. Schönberger, Juan Nunez-Iglesias, François Boulogne, Joshua D. Warner, Neil Yager, Emmanuelle Gouillart, Tony Yu and the scikit-image contributors. scikit-image: Image processing in Python, PeerJ 2:e453 (2014) <a class="anchor" id="Ref_14"></a>   
 
+15.  Coral USB Accelerator. [https://coral.ai/products/accelerator/] <a class="anchor" id="Ref_15"></a>  
+
+16.  MrRobot GitHub Repo. [https://github.com/stevensmiley1989/MrRobot]<a class="anchor" id="Ref_16"></a> 
+
+17.  Raspberry Pi Guide - MQTT Protocol. [https://www.raspberrypi.org/forums/viewtopic.php?t=196010]<a class="anchor" id="Ref_17"></a> 
+
+18.  Rclone Guide. [https://rclone.org/drive/]<a class="anchor" id="Ref_18"></a> 
+
+19.  How to Control the Speed and Stability of Training Neural Networks with Gradient Descent Batch Size. [https://machinelearningmastery.com/how-to-control-the-speed-and-stability-of-training-neural-networks-with-gradient-descent-batch-size/]<a class="anchor" id="Ref_19"></a> 
+
+20.  Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen, MobileNetV2: Inverted Residuals and Linear Bottlenecks.[https://arxiv.org/abs/1801.04381]<a class="anchor" id="Ref_20"></a> 
+
+21.  Cheng, Shuhong & Zhao, Kaopeng & Zhang, Dianfan. (2019). Abnormal Water Quality Monitoring Based on Visual Sensing of Three-Dimensional Motion Behavior of Fish. Symmetry. 11. 1179. 10.3390/sym11091179.<a class="anchor" id="Ref_21"></a> 
+
 ## 8. Contact-Info<a class="anchor" id="8"></a>
 
 Feel free to contact me to discuss any issues, questions, or comments.
