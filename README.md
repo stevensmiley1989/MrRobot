@@ -18,7 +18,7 @@ This respository hosts the files I used to create my DIY robot, MrRobot.
 ## 0. Diagrams<a class="anchor" id="0"></a>
 ![Wiring Diagram](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/MrRobot_Wiring_Diagram.png)
 
-![Training Flowchart](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/MrRobot_Training_FlowChart.png)
+![Training Flowchart](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/MrRobot_Training_Flowchart.png)
 
 ## 1. Jupyter Notebooks<a class="anchor" id="1"></a>
 Jupyter Notebook(s) written in Python.
