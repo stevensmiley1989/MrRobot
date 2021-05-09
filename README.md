@@ -24,7 +24,8 @@ Jupyter Notebook(s) written in Python.
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Grab_from_Gdrive.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/MrRobot/blob/main/Grab_from_Gdrive.ipynb) | Pipeline Images from Gdrive to Local Machine for LabelImg to put Bounding Boxes and send back to Gdrive for training on Google Colab. |
-| [augmented_ssd_MobileNet_v2_FPNLite_320_LR0p01_BS32_NB80000__5_5_2021_reindeer.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/MrRobot/blob/main/augmented_ssd_MobileNet_v2_FPNLite_320_LR0p01_BS32_NB80000__5_5_2021_reindeer.ipynb) | Training notebook for Object Detector with SSD MobileNet V2 FPNLite 320x320 on Google Colab. |
+| [augmented_ssd_MobileNet_v2_FPNLite_320x320_5_8_2021_reindeer.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/MrRobot/blob/main/Jupyter%20Notebooks/augmented_ssd_MobileNet_v2_FPNLite_320x320_5_8_2021_reindeer.ipynb) | Training notebook for Object Detector with SSD MobileNet V2 FPNLite 320x320 on Google Colab. |
+| [Evaluate_Models.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/MrRobot/blob/main/Jupyter%20Notebooks/Evaluate_Models.ipynb) | Evaluation notebook for Object Detector with SSD MobileNet V2 FPNLite 320x320 on Google Colab. |
 
 ## 2. Arduino Codes<a class="anchor" id="2"></a>
 Arduino Code(s) written in C++/C.
