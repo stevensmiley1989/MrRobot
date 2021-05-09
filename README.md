@@ -48,7 +48,12 @@ Python Code(s) written in Python.
 | Code | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [??](??) | ??. |
-| [MrRobot_Receiver_Master_Arduino_2_with_coil.ino](https://github.com/stevensmiley1989/MrRobot/blob/main/Arduino%20Codes/MrRobot_Receiver_Master_Arduino_2_with_coil.ino) | Arduino 2, Master.  This is Arduino controls the other slaves and is connected via Serial to the Raspberry Pi with USB.  |
+| [PI-app_r0.py](https://github.com/stevensmiley1989/MrRobot/blob/main/Raspberry%20Pi%20Files/PI-app_r0.py) | Main script controlling the robot.  This is the file initiated to start the robot.  |
+| [Robot_Integrate_r0.py](https://github.com/stevensmiley1989/MrRobot/blob/main/Raspberry%20Pi%20Files/Robot_Integrate_r0.py) | This script controls the DC motors for the wheels and the Servo motors for the gripper and coil arms.  It is executed during the PI-app_r0.py execution.|
+| [Send_to_Gdrive.py](https://github.com/stevensmiley1989/MrRobot/blob/main/Raspberry%20Pi%20Files/Send_to_Gdrive.py) | This script sends the images taken from the robot to the Gdrive as part of the training process.  |
+| [Serial_Connect_Stepper_r0.py](https://github.com/stevensmiley1989/MrRobot/blob/main/Raspberry%20Pi%20Files/Serial_Connect_Stepper_r0.py) | This script receives and transmits serial communication to the Arduinos.  It is executed during the PI-app_r0.py execution.  |
+| [TF_object_detection_r0.py](https://github.com/stevensmiley1989/MrRobot/blob/main/Raspberry%20Pi%20Files/TF_object_detection_r0.py) | This script runs inference with the tflite model using the Edge Coral TPU and is run in parallel with PI-app_r0.py for controlling the robot.  It is executed during the PI-app_r0.py execution.  |
+| [play_sound_r0.py](https://github.com/stevensmiley1989/MrRobot/blob/main/Raspberry%20Pi%20Files/play_sound_r0.py) | This script plays soundboard clips at various times in the robot's activity.  It is executed during the PI-app_r0.py execution.  |
 
 ## 4. Autodesk Fusion 360 File<a class="anchor" id="4"></a>
 Created in Autodesk Fusion 360.
