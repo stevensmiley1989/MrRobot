@@ -47,7 +47,6 @@ Python Code(s) written in Python.
 
 | Code | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [??](??) | ??. |
 | [PI-app_r0.py](https://github.com/stevensmiley1989/MrRobot/blob/main/Raspberry%20Pi%20Files/PI-app_r0.py) | Main script controlling the robot.  This is the file initiated to start the robot.  |
 | [Robot_Integrate_r0.py](https://github.com/stevensmiley1989/MrRobot/blob/main/Raspberry%20Pi%20Files/Robot_Integrate_r0.py) | This script controls the DC motors for the wheels and the Servo motors for the gripper and coil arms.  It is executed during the PI-app_r0.py execution.|
 | [Send_to_Gdrive.py](https://github.com/stevensmiley1989/MrRobot/blob/main/Raspberry%20Pi%20Files/Send_to_Gdrive.py) | This script sends the images taken from the robot to the Gdrive as part of the training process.  |
