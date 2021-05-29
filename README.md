@@ -3,6 +3,7 @@
 
 This respository hosts the files I used to create my DIY robot, MrRobot.
 ![MrRobot_r0](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/MrRobot_FusionvsReal.png)
+![MrRobot_shoot_reindeer](https://github.com/stevensmiley1989/MrRobot/blob/main/Images/robot_shoot_reindeer.gif)
 # Table of Contents to Repository
 * [0. Diagrams](#0)
    * [0.1 Wiring Diagram](#0.1)
